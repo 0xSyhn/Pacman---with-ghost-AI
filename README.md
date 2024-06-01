@@ -1,1 +1,1 @@
-# Pacman---with-ghost-AI
+# PacMan
